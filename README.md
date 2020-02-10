@@ -1,4 +1,4 @@
-#Titanic Dataset
+# Titanic Dataset
  
 Understanding the Context and Problem Definition
 In 1912 the Titanic sank after colliding with an iceberg resulting in the deaths of majority of its passengers (1502 out of 2224 passengers and crew) which translated a 32% survival rate.
